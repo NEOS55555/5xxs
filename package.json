@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mongodb": "^3.5.4",
+    "superagent": "^5.2.2"
+  }
+}
